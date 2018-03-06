@@ -1,4 +1,4 @@
-# Revision history for hdom
+# Revision history for hdom-lucid
 
 ## 0.1.0.0  -- YYYY-mm-dd
 
